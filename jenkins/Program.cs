@@ -10,6 +10,7 @@ namespace jenkins
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
